@@ -18,3 +18,4 @@ def compute_iou(true_boxes, predict_box):
 
 
 if __name__ == '__main__':
+    pass
